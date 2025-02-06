@@ -35,15 +35,15 @@ Criado com Spring Boot e ReactJS.
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/JoaoGSoek/Calendario-De-Eventos.git
 
 2. Acesse a pasta do projeto:
 	```sh
-	cd seu-repositorio
+	cd Calendario-De-Eventos
 
 3. Instale as dependências do frontend:
 	```sh
-	cd frontend
+	cd eventos_gui
 	npm install
 
 4. Inicie o frontend:
@@ -52,7 +52,7 @@ Criado com Spring Boot e ReactJS.
 
 5. Inicie o backend:
 	```sh
-	cd ../backend
+	cd ../eventos_api
 	./mvnw spring-boot:run
 
 
